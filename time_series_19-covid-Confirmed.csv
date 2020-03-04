@@ -1,0 +1,152 @@
+﻿provinstate,homecontinent,homelat,homelon,n
+Anhui,Mainland China,31.8257,117.2264,990
+Beijing,Mainland China,40.1824,116.4142,414
+Chongqing,Mainland China,30.0572,107.874,576
+Fujian,Mainland China,26.0789,117.9874,296
+Gansu,Mainland China,36.0611,103.8343,91
+Guangdong,Mainland China,23.3417,113.4244,1350
+Guangxi,Mainland China,23.8298,108.7881,252
+Guizhou,Mainland China,26.8154,106.8748,146
+Hainan,Mainland China,19.1959,109.7453,168
+Hebei,Mainland China,38.0428,114.5149,318
+Heilongjiang,Mainland China,47.862,127.7615,480
+Henan,Mainland China,33.88202,113.614,1272
+Hubei,Mainland China,30.9756,112.2707,67217
+Hunan,Mainland China,27.6104,111.7088,1018
+Inner Mongolia,Mainland China,44.0935,113.9448,75
+Jiangsu,Mainland China,32.9711,119.455,631
+Jiangxi,Mainland China,27.614,115.7221,935
+Jilin,Mainland China,43.6661,126.1923,93
+Liaoning,Mainland China,41.2956,122.6085,125
+Ningxia,Mainland China,37.2692,106.1655,74
+Qinghai,Mainland China,35.7452,95.9956,18
+Shaanxi,Mainland China,35.1917,108.8701,245
+Shandong,Mainland China,36.3427,118.1498,758
+Shanghai,Mainland China,31.202,121.4491,338
+Shanxi,Mainland China,37.5777,112.2922,133
+Sichuan,Mainland China,30.6171,102.7103,538
+Tianjin,Mainland China,39.3054,117.323,136
+Tibet,Mainland China,31.6927,88.0924,1
+Xinjiang,Mainland China,41.1129,85.2401,76
+Yunnan,Mainland China,24.974,101.487,174
+Zhejiang,Mainland China,29.1832,120.0934,1213
+,Thailand,15,101,43
+,Japan,36,138,293
+,South Korea,36,128,5186
+Taiwan,Taiwan,23.7,121,42
+King County, WA,US,47.6062,-122.3321,21
+Cook County, IL,US,41.7377,-87.6976,4
+Tempe, AZ,US,33.4255,-111.94,1
+Macau,Macau,22.1667,113.55,10
+Hong Kong,Hong Kong,22.3,114.2,100
+,Singapore,1.2833,103.8333,110
+,Vietnam,16,108,16
+,France,47,2,204
+,Nepal,28.1667,84.25,1
+,Malaysia,2.5,112.5,36
+Toronto, ON,Canada,43.6532,-79.3832,19
+British Columbia,Canada,49.2827,-123.1207,9
+Orange, CA,US,33.7879,-117.8531,1
+Los Angeles, CA,US,34.0522,-118.2437,1
+New South Wales,Australia,-33.8688,151.2093,13
+Victoria,Australia,-37.8136,144.9631,9
+Queensland,Australia,-28.0167,153.4,11
+,Cambodia,11.55,104.9167,1
+,Sri Lanka,7,81,1
+,Germany,51,9,196
+,Finland,64,26,6
+,United Arab Emirates,24,54,27
+,Philippines,13,122,3
+,India,21,78,5
+London, ON,Canada,42.9849,-81.2453,1
+,Italy,43,12,2502
+,UK,55,-3,51
+,Russia,60,90,3
+,Sweden,63,16,21
+Santa Clara, CA,US,37.3541,-121.9552,11
+,Spain,40,-4,165
+South Australia,Australia,-34.9285,138.6007,3
+Boston, MA,US,42.3601,-71.0589,1
+San Benito, CA,US,36.5761,-120.9876,2
+,Belgium,50.8333,4,13
+Madison, WI,US,43.0731,-89.4012,1
+Diamond Princess cruise ship,Others,35.4437,139.638,706
+San Diego County, CA,US,32.7157,-117.1611,2
+San Antonio, TX,US,29.4241,-98.4936,1
+,Egypt,26,30,2
+,Iran,32,53,2336
+Omaha, NE (From Diamond Princess),US,41.2545,-95.9758,0
+Travis, CA (From Diamond Princess),US,38.2721,-121.9399,0
+From Diamond Princess,Australia,35.4437,139.638,0
+Lackland, TX (From Diamond Princess),US,29.3829,-98.6134,0
+,Lebanon,33.8547,35.8623,13
+Humboldt County, CA,US,40.745,-123.8695,1
+Sacramento County, CA,US,38.4747,-121.3542,2
+,Iraq,33,44,32
+Unassigned Location (From Diamond Princess),US,35.4437,139.638,45
+,Oman,21,,12
+,Afghanistan,33,65,1
+,Bahrain,26.0275,50.55,49
+,Kuwait,29.5,47.75,56
+,Algeria,28.0339,1.6596,5
+,Croatia,45.1,15.2,9
+,Switzerland,46.8182,8.2275,56
+,Austria,47.5162,14.5501,21
+,Israel,31,35,12
+,Pakistan,30.3753,69.3451,5
+,Brazil,-14.235,-51.9253,2
+,Georgia,42.3154,43.3569,3
+,Greece,39.0742,21.8243,7
+,North Macedonia,41.6086,21.7453,1
+,Norway,60.472,8.4689,32
+,Romania,45.9432,24.9668,3
+,Denmark,56.2639,9.5018,6
+,Estonia,58.5953,25.0136,2
+,Netherlands,52.1326,5.2913,24
+,San Marino,43.9424,12.4578,10
+,Belarus,53.7098,27.9534,1
+Montreal, QC,Canada,45.5017,-73.5673,1
+,Iceland,64.9631,-19.0208,11
+,Lithuania,55.1694,23.8813,1
+,Mexico,23.6345,-102.5528,5
+,New Zealand,-40.9006,174.886,1
+,Nigeria,9.082,8.6753,1
+Western Australia,Australia,-31.9505,115.8605,2
+,Ireland,53.1424,-7.6921,2
+,Luxembourg,49.8153,6.1296,1
+,Monaco,43.7333,7.4167,1
+,Qatar,25.3548,51.1839,7
+Snohomish County, WA,US,48.033,-121.8339,6
+,Ecuador,-1.8312,-78.1834,7
+,Azerbaijan,40.1431,47.5769,3
+,Czech Republic,49.8175,15.473,5
+,Armenia,40.0691,45.0382,1
+,Dominican Republic,18.7357,-70.1627,1
+Providence, RI,US,41.824,-71.4128,2
+,Indonesia,-0.7893,113.9213,2
+,Portugal,39.3999,-8.2245,2
+,Andorra,42.5063,1.5218,1
+Tasmania,Australia,-41.4545,145.9707,1
+,Latvia,56.8796,24.6032,1
+,Morocco,31.7917,-7.0926,1
+,Saudi Arabia,24,45,1
+,Senegal,14.4974,-14.4524,2
+Grafton County, NH,US,43.9088,-71.826,2
+Hillsborough, FL,US,27.9904,-82.3018,2
+New York City, NY,US,40.7128,-74.006,1
+Placer County, CA,US,39.0916,-120.8039,1
+San Mateo, CA,US,37.563,-122.3255,2
+Sarasota, FL,US,27.3364,-82.5307,1
+Sonoma County, CA,US,38.578,-122.9888,1
+Umatilla, OR,US,45.775,-118.7606,1
+Fulton County, GA,US,33.8034,-84.3963,2
+Washington County, OR,US,45.547,-123.1386,2
+,Argentina,-38.4161,-63.6167,1
+,Chile,-35.6751,-71.543,1
+,Jordan,31.24,36.51,1
+Norfolk County, MA,US,42.1767,-71.1449,1
+Berkeley, CA,US,37.8715,-122.273,1
+Maricopa County, AZ,US,33.2918,-112.4291,1
+Wake County, NC,US,35.8032,-78.5661,1
+Westchester County, NY,US,41.122,-73.7949,1
+,Ukraine,48.3794,31.1656,1

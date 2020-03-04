@@ -1,0 +1,1058 @@
+[
+  {
+    "Province/State": "Anhui",
+    "Country/Region": "Mainland China",
+    "Lat": 31.8257,
+    "Long": 117.2264,
+    "3/3/20": 990
+  },
+  {
+    "Province/State": "Beijing",
+    "Country/Region": "Mainland China",
+    "Lat": 40.1824,
+    "Long": 116.4142,
+    "3/3/20": 414
+  },
+  {
+    "Province/State": "Chongqing",
+    "Country/Region": "Mainland China",
+    "Lat": 30.0572,
+    "Long": 107.874,
+    "3/3/20": 576
+  },
+  {
+    "Province/State": "Fujian",
+    "Country/Region": "Mainland China",
+    "Lat": 26.0789,
+    "Long": 117.9874,
+    "3/3/20": 296
+  },
+  {
+    "Province/State": "Gansu",
+    "Country/Region": "Mainland China",
+    "Lat": 36.0611,
+    "Long": 103.8343,
+    "3/3/20": 91
+  },
+  {
+    "Province/State": "Guangdong",
+    "Country/Region": "Mainland China",
+    "Lat": 23.3417,
+    "Long": 113.4244,
+    "3/3/20": 1350
+  },
+  {
+    "Province/State": "Guangxi",
+    "Country/Region": "Mainland China",
+    "Lat": 23.8298,
+    "Long": 108.7881,
+    "3/3/20": 252
+  },
+  {
+    "Province/State": "Guizhou",
+    "Country/Region": "Mainland China",
+    "Lat": 26.8154,
+    "Long": 106.8748,
+    "3/3/20": 146
+  },
+  {
+    "Province/State": "Hainan",
+    "Country/Region": "Mainland China",
+    "Lat": 19.1959,
+    "Long": 109.7453,
+    "3/3/20": 168
+  },
+  {
+    "Province/State": "Hebei",
+    "Country/Region": "Mainland China",
+    "Lat": 38.0428,
+    "Long": 114.5149,
+    "3/3/20": 318
+  },
+  {
+    "Province/State": "Heilongjiang",
+    "Country/Region": "Mainland China",
+    "Lat": 47.862,
+    "Long": 127.7615,
+    "3/3/20": 480
+  },
+  {
+    "Province/State": "Henan",
+    "Country/Region": "Mainland China",
+    "Lat": 33.88202,
+    "Long": 113.614,
+    "3/3/20": 1272
+  },
+  {
+    "Province/State": "Hubei",
+    "Country/Region": "Mainland China",
+    "Lat": 30.9756,
+    "Long": 112.2707,
+    "3/3/20": 67217
+  },
+  {
+    "Province/State": "Hunan",
+    "Country/Region": "Mainland China",
+    "Lat": 27.6104,
+    "Long": 111.7088,
+    "3/3/20": 1018
+  },
+  {
+    "Province/State": "Inner Mongolia",
+    "Country/Region": "Mainland China",
+    "Lat": 44.0935,
+    "Long": 113.9448,
+    "3/3/20": 75
+  },
+  {
+    "Province/State": "Jiangsu",
+    "Country/Region": "Mainland China",
+    "Lat": 32.9711,
+    "Long": 119.455,
+    "3/3/20": 631
+  },
+  {
+    "Province/State": "Jiangxi",
+    "Country/Region": "Mainland China",
+    "Lat": 27.614,
+    "Long": 115.7221,
+    "3/3/20": 935
+  },
+  {
+    "Province/State": "Jilin",
+    "Country/Region": "Mainland China",
+    "Lat": 43.6661,
+    "Long": 126.1923,
+    "3/3/20": 93
+  },
+  {
+    "Province/State": "Liaoning",
+    "Country/Region": "Mainland China",
+    "Lat": 41.2956,
+    "Long": 122.6085,
+    "3/3/20": 125
+  },
+  {
+    "Province/State": "Ningxia",
+    "Country/Region": "Mainland China",
+    "Lat": 37.2692,
+    "Long": 106.1655,
+    "3/3/20": 74
+  },
+  {
+    "Province/State": "Qinghai",
+    "Country/Region": "Mainland China",
+    "Lat": 35.7452,
+    "Long": 95.9956,
+    "3/3/20": 18
+  },
+  {
+    "Province/State": "Shaanxi",
+    "Country/Region": "Mainland China",
+    "Lat": 35.1917,
+    "Long": 108.8701,
+    "3/3/20": 245
+  },
+  {
+    "Province/State": "Shandong",
+    "Country/Region": "Mainland China",
+    "Lat": 36.3427,
+    "Long": 118.1498,
+    "3/3/20": 758
+  },
+  {
+    "Province/State": "Shanghai",
+    "Country/Region": "Mainland China",
+    "Lat": 31.202,
+    "Long": 121.4491,
+    "3/3/20": 338
+  },
+  {
+    "Province/State": "Shanxi",
+    "Country/Region": "Mainland China",
+    "Lat": 37.5777,
+    "Long": 112.2922,
+    "3/3/20": 133
+  },
+  {
+    "Province/State": "Sichuan",
+    "Country/Region": "Mainland China",
+    "Lat": 30.6171,
+    "Long": 102.7103,
+    "3/3/20": 538
+  },
+  {
+    "Province/State": "Tianjin",
+    "Country/Region": "Mainland China",
+    "Lat": 39.3054,
+    "Long": 117.323,
+    "3/3/20": 136
+  },
+  {
+    "Province/State": "Tibet",
+    "Country/Region": "Mainland China",
+    "Lat": 31.6927,
+    "Long": 88.0924,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Xinjiang",
+    "Country/Region": "Mainland China",
+    "Lat": 41.1129,
+    "Long": 85.2401,
+    "3/3/20": 76
+  },
+  {
+    "Province/State": "Yunnan",
+    "Country/Region": "Mainland China",
+    "Lat": 24.974,
+    "Long": 101.487,
+    "3/3/20": 174
+  },
+  {
+    "Province/State": "Zhejiang",
+    "Country/Region": "Mainland China",
+    "Lat": 29.1832,
+    "Long": 120.0934,
+    "3/3/20": 1213
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Thailand",
+    "Lat": 15,
+    "Long": 101,
+    "3/3/20": 43
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Japan",
+    "Lat": 36,
+    "Long": 138,
+    "3/3/20": 293
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "South Korea",
+    "Lat": 36,
+    "Long": 128,
+    "3/3/20": 5186
+  },
+  {
+    "Province/State": "Taiwan",
+    "Country/Region": "Taiwan",
+    "Lat": 23.7,
+    "Long": 121,
+    "3/3/20": 42
+  },
+  {
+    "Province/State": "King County, WA",
+    "Country/Region": "US",
+    "Lat": 47.6062,
+    "Long": -122.3321,
+    "3/3/20": 21
+  },
+  {
+    "Province/State": "Cook County, IL",
+    "Country/Region": "US",
+    "Lat": 41.7377,
+    "Long": -87.6976,
+    "3/3/20": 4
+  },
+  {
+    "Province/State": "Tempe, AZ",
+    "Country/Region": "US",
+    "Lat": 33.4255,
+    "Long": -111.94,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Macau",
+    "Country/Region": "Macau",
+    "Lat": 22.1667,
+    "Long": 113.55,
+    "3/3/20": 10
+  },
+  {
+    "Province/State": "Hong Kong",
+    "Country/Region": "Hong Kong",
+    "Lat": 22.3,
+    "Long": 114.2,
+    "3/3/20": 100
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Singapore",
+    "Lat": 1.2833,
+    "Long": 103.8333,
+    "3/3/20": 110
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Vietnam",
+    "Lat": 16,
+    "Long": 108,
+    "3/3/20": 16
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "France",
+    "Lat": 47,
+    "Long": 2,
+    "3/3/20": 204
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Nepal",
+    "Lat": 28.1667,
+    "Long": 84.25,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Malaysia",
+    "Lat": 2.5,
+    "Long": 112.5,
+    "3/3/20": 36
+  },
+  {
+    "Province/State": "Toronto, ON",
+    "Country/Region": "Canada",
+    "Lat": 43.6532,
+    "Long": -79.3832,
+    "3/3/20": 19
+  },
+  {
+    "Province/State": "British Columbia",
+    "Country/Region": "Canada",
+    "Lat": 49.2827,
+    "Long": -123.1207,
+    "3/3/20": 9
+  },
+  {
+    "Province/State": "Orange, CA",
+    "Country/Region": "US",
+    "Lat": 33.7879,
+    "Long": -117.8531,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Los Angeles, CA",
+    "Country/Region": "US",
+    "Lat": 34.0522,
+    "Long": -118.2437,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "New South Wales",
+    "Country/Region": "Australia",
+    "Lat": -33.8688,
+    "Long": 151.2093,
+    "3/3/20": 13
+  },
+  {
+    "Province/State": "Victoria",
+    "Country/Region": "Australia",
+    "Lat": -37.8136,
+    "Long": 144.9631,
+    "3/3/20": 9
+  },
+  {
+    "Province/State": "Queensland",
+    "Country/Region": "Australia",
+    "Lat": -28.0167,
+    "Long": 153.4,
+    "3/3/20": 11
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Cambodia",
+    "Lat": 11.55,
+    "Long": 104.9167,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Sri Lanka",
+    "Lat": 7,
+    "Long": 81,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Germany",
+    "Lat": 51,
+    "Long": 9,
+    "3/3/20": 196
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Finland",
+    "Lat": 64,
+    "Long": 26,
+    "3/3/20": 6
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "United Arab Emirates",
+    "Lat": 24,
+    "Long": 54,
+    "3/3/20": 27
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Philippines",
+    "Lat": 13,
+    "Long": 122,
+    "3/3/20": 3
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "India",
+    "Lat": 21,
+    "Long": 78,
+    "3/3/20": 5
+  },
+  {
+    "Province/State": "London, ON",
+    "Country/Region": "Canada",
+    "Lat": 42.9849,
+    "Long": -81.2453,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Italy",
+    "Lat": 43,
+    "Long": 12,
+    "3/3/20": 2502
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "UK",
+    "Lat": 55,
+    "Long": -3,
+    "3/3/20": 51
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Russia",
+    "Lat": 60,
+    "Long": 90,
+    "3/3/20": 3
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Sweden",
+    "Lat": 63,
+    "Long": 16,
+    "3/3/20": 21
+  },
+  {
+    "Province/State": "Santa Clara, CA",
+    "Country/Region": "US",
+    "Lat": 37.3541,
+    "Long": -121.9552,
+    "3/3/20": 11
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Spain",
+    "Lat": 40,
+    "Long": -4,
+    "3/3/20": 165
+  },
+  {
+    "Province/State": "South Australia",
+    "Country/Region": "Australia",
+    "Lat": -34.9285,
+    "Long": 138.6007,
+    "3/3/20": 3
+  },
+  {
+    "Province/State": "Boston, MA",
+    "Country/Region": "US",
+    "Lat": 42.3601,
+    "Long": -71.0589,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "San Benito, CA",
+    "Country/Region": "US",
+    "Lat": 36.5761,
+    "Long": -120.9876,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Belgium",
+    "Lat": 50.8333,
+    "Long": 4,
+    "3/3/20": 13
+  },
+  {
+    "Province/State": "Madison, WI",
+    "Country/Region": "US",
+    "Lat": 43.0731,
+    "Long": -89.4012,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Diamond Princess cruise ship",
+    "Country/Region": "Others",
+    "Lat": 35.4437,
+    "Long": 139.638,
+    "3/3/20": 706
+  },
+  {
+    "Province/State": "San Diego County, CA",
+    "Country/Region": "US",
+    "Lat": 32.7157,
+    "Long": -117.1611,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "San Antonio, TX",
+    "Country/Region": "US",
+    "Lat": 29.4241,
+    "Long": -98.4936,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Egypt",
+    "Lat": 26,
+    "Long": 30,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Iran",
+    "Lat": 32,
+    "Long": 53,
+    "3/3/20": 2336
+  },
+  {
+    "Province/State": "Omaha, NE (From Diamond Princess)",
+    "Country/Region": "US",
+    "Lat": 41.2545,
+    "Long": -95.9758,
+    "3/3/20": 0
+  },
+  {
+    "Province/State": "Travis, CA (From Diamond Princess)",
+    "Country/Region": "US",
+    "Lat": 38.2721,
+    "Long": -121.9399,
+    "3/3/20": 0
+  },
+  {
+    "Province/State": "From Diamond Princess",
+    "Country/Region": "Australia",
+    "Lat": 35.4437,
+    "Long": 139.638,
+    "3/3/20": 0
+  },
+  {
+    "Province/State": "Lackland, TX (From Diamond Princess)",
+    "Country/Region": "US",
+    "Lat": 29.3829,
+    "Long": -98.6134,
+    "3/3/20": 0
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Lebanon",
+    "Lat": 33.8547,
+    "Long": 35.8623,
+    "3/3/20": 13
+  },
+  {
+    "Province/State": "Humboldt County, CA",
+    "Country/Region": "US",
+    "Lat": 40.745,
+    "Long": -123.8695,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Sacramento County, CA",
+    "Country/Region": "US",
+    "Lat": 38.4747,
+    "Long": -121.3542,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Iraq",
+    "Lat": 33,
+    "Long": 44,
+    "3/3/20": 32
+  },
+  {
+    "Province/State": "Unassigned Location (From Diamond Princess)",
+    "Country/Region": "US",
+    "Lat": 35.4437,
+    "Long": 139.638,
+    "3/3/20": 45
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Oman",
+    "Lat": 21,
+    "3/3/20": 12
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Afghanistan",
+    "Lat": 33,
+    "Long": 65,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Bahrain",
+    "Lat": 26.0275,
+    "Long": 50.55,
+    "3/3/20": 49
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Kuwait",
+    "Lat": 29.5,
+    "Long": 47.75,
+    "3/3/20": 56
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Algeria",
+    "Lat": 28.0339,
+    "Long": 1.6596,
+    "3/3/20": 5
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Croatia",
+    "Lat": 45.1,
+    "Long": 15.2,
+    "3/3/20": 9
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Switzerland",
+    "Lat": 46.8182,
+    "Long": 8.2275,
+    "3/3/20": 56
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Austria",
+    "Lat": 47.5162,
+    "Long": 14.5501,
+    "3/3/20": 21
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Israel",
+    "Lat": 31,
+    "Long": 35,
+    "3/3/20": 12
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Pakistan",
+    "Lat": 30.3753,
+    "Long": 69.3451,
+    "3/3/20": 5
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Brazil",
+    "Lat": -14.235,
+    "Long": -51.9253,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Georgia",
+    "Lat": 42.3154,
+    "Long": 43.3569,
+    "3/3/20": 3
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Greece",
+    "Lat": 39.0742,
+    "Long": 21.8243,
+    "3/3/20": 7
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "North Macedonia",
+    "Lat": 41.6086,
+    "Long": 21.7453,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Norway",
+    "Lat": 60.472,
+    "Long": 8.4689,
+    "3/3/20": 32
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Romania",
+    "Lat": 45.9432,
+    "Long": 24.9668,
+    "3/3/20": 3
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Denmark",
+    "Lat": 56.2639,
+    "Long": 9.5018,
+    "3/3/20": 6
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Estonia",
+    "Lat": 58.5953,
+    "Long": 25.0136,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Netherlands",
+    "Lat": 52.1326,
+    "Long": 5.2913,
+    "3/3/20": 24
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "San Marino",
+    "Lat": 43.9424,
+    "Long": 12.4578,
+    "3/3/20": 10
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Belarus",
+    "Lat": 53.7098,
+    "Long": 27.9534,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Montreal, QC",
+    "Country/Region": "Canada",
+    "Lat": 45.5017,
+    "Long": -73.5673,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Iceland",
+    "Lat": 64.9631,
+    "Long": -19.0208,
+    "3/3/20": 11
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Lithuania",
+    "Lat": 55.1694,
+    "Long": 23.8813,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Mexico",
+    "Lat": 23.6345,
+    "Long": -102.5528,
+    "3/3/20": 5
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "New Zealand",
+    "Lat": -40.9006,
+    "Long": 174.886,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Nigeria",
+    "Lat": 9.082,
+    "Long": 8.6753,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Western Australia",
+    "Country/Region": "Australia",
+    "Lat": -31.9505,
+    "Long": 115.8605,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Ireland",
+    "Lat": 53.1424,
+    "Long": -7.6921,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Luxembourg",
+    "Lat": 49.8153,
+    "Long": 6.1296,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Monaco",
+    "Lat": 43.7333,
+    "Long": 7.4167,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Qatar",
+    "Lat": 25.3548,
+    "Long": 51.1839,
+    "3/3/20": 7
+  },
+  {
+    "Province/State": "Snohomish County, WA",
+    "Country/Region": "US",
+    "Lat": 48.033,
+    "Long": -121.8339,
+    "3/3/20": 6
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Ecuador",
+    "Lat": -1.8312,
+    "Long": -78.1834,
+    "3/3/20": 7
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Azerbaijan",
+    "Lat": 40.1431,
+    "Long": 47.5769,
+    "3/3/20": 3
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Czech Republic",
+    "Lat": 49.8175,
+    "Long": 15.473,
+    "3/3/20": 5
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Armenia",
+    "Lat": 40.0691,
+    "Long": 45.0382,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Dominican Republic",
+    "Lat": 18.7357,
+    "Long": -70.1627,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Providence, RI",
+    "Country/Region": "US",
+    "Lat": 41.824,
+    "Long": -71.4128,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Indonesia",
+    "Lat": -0.7893,
+    "Long": 113.9213,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Portugal",
+    "Lat": 39.3999,
+    "Long": -8.2245,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Andorra",
+    "Lat": 42.5063,
+    "Long": 1.5218,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Tasmania",
+    "Country/Region": "Australia",
+    "Lat": -41.4545,
+    "Long": 145.9707,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Latvia",
+    "Lat": 56.8796,
+    "Long": 24.6032,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Morocco",
+    "Lat": 31.7917,
+    "Long": -7.0926,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Saudi Arabia",
+    "Lat": 24,
+    "Long": 45,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Senegal",
+    "Lat": 14.4974,
+    "Long": -14.4524,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "Grafton County, NH",
+    "Country/Region": "US",
+    "Lat": 43.9088,
+    "Long": -71.826,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "Hillsborough, FL",
+    "Country/Region": "US",
+    "Lat": 27.9904,
+    "Long": -82.3018,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "New York City, NY",
+    "Country/Region": "US",
+    "Lat": 40.7128,
+    "Long": -74.006,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Placer County, CA",
+    "Country/Region": "US",
+    "Lat": 39.0916,
+    "Long": -120.8039,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "San Mateo, CA",
+    "Country/Region": "US",
+    "Lat": 37.563,
+    "Long": -122.3255,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "Sarasota, FL",
+    "Country/Region": "US",
+    "Lat": 27.3364,
+    "Long": -82.5307,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Sonoma County, CA",
+    "Country/Region": "US",
+    "Lat": 38.578,
+    "Long": -122.9888,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Umatilla, OR",
+    "Country/Region": "US",
+    "Lat": 45.775,
+    "Long": -118.7606,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Fulton County, GA",
+    "Country/Region": "US",
+    "Lat": 33.8034,
+    "Long": -84.3963,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "Washington County, OR",
+    "Country/Region": "US",
+    "Lat": 45.547,
+    "Long": -123.1386,
+    "3/3/20": 2
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Argentina",
+    "Lat": -38.4161,
+    "Long": -63.6167,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Chile",
+    "Lat": -35.6751,
+    "Long": -71.543,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Jordan",
+    "Lat": 31.24,
+    "Long": 36.51,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Norfolk County, MA",
+    "Country/Region": "US",
+    "Lat": 42.1767,
+    "Long": -71.1449,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Berkeley, CA",
+    "Country/Region": "US",
+    "Lat": 37.8715,
+    "Long": -122.273,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Maricopa County, AZ",
+    "Country/Region": "US",
+    "Lat": 33.2918,
+    "Long": -112.4291,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Wake County, NC",
+    "Country/Region": "US",
+    "Lat": 35.8032,
+    "Long": -78.5661,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "Westchester County, NY",
+    "Country/Region": "US",
+    "Lat": 41.122,
+    "Long": -73.7949,
+    "3/3/20": 1
+  },
+  {
+    "Province/State": "",
+    "Country/Region": "Ukraine",
+    "Lat": 48.3794,
+    "Long": 31.1656,
+    "3/3/20": 1
+  }
+]
